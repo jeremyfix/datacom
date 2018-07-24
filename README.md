@@ -6,4 +6,4 @@ Repository to experiment with different ways of implementing a client/server for
 
 Reference:
 
-- It may be worth having a look to [ROS 2.0 -> http://docs.ros2.org/bouncy/index.html] middleware . Which librariries, API, did they choose ? 
+- It may be worth having a look to [ROS 2.0](http://docs.ros2.org/bouncy/index.html) middleware . Which librariries, API, did they choose ? 
